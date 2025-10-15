@@ -98,3 +98,11 @@ JavaScript ES6
 LocalStorage API  
 CSS (system font, hover, responsive)
 --
+
+
+
+Links:
+
+GitHub:         https://github.com/vishalreddy9866/mini-insta
+Live (Vercel):  https://mini-insta-fhp9.vercel.app/
+
